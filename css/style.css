@@ -1,0 +1,103 @@
+*{font-weight: 300;}
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(255, 192, 203, 0.699);
+    text-align: center;
+}
+
+header
+{
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+    color: black;
+}
+
+header img
+{
+    margin-top: 10px;
+}
+
+img
+{
+    width: 187px;
+    height: 269px;
+    border-radius: 5px;
+}
+
+.line-books
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
+
+.book
+{
+    background-color: white;
+    padding: 25px;
+    width: 250px;
+    border-radius: 25px;
+}
+
+button
+{
+    background-color: pink;
+    color: black;
+    padding: 20px;
+    width: 90%;
+    border-radius: 25px;
+}
+
+button:hover
+{
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.logo
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 0px;
+    background-color: white;
+    padding: 1px;
+    border-radius: 25px;
+}
+
+.credits
+{
+    color: gray;
+}
+
+.credits:hover
+{
+    color: black;
+    transition: 1.5s;
+    cursor: context-menu; /* the ""normal"" */
+}
+
+.link button
+{
+    background-color: gray;
+    color: white;
+    width: 300px;
+    border-radius: 25px;
+}
+
+a
+{
+    color: gray;
+}
+
+a:hover
+{
+    color: black;
+    transition: 1.5s;
+    cursor: pointer;
+}
