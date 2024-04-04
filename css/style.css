@@ -32,8 +32,8 @@ img
 {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    margin-top: 50px;
-    margin-left: 50px;
+    margin-top: 2%;
+    margin-left: 2%;
     margin-bottom: 25px;
 }
 
