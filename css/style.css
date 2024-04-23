@@ -101,12 +101,3 @@ a:hover
     transition: 1.5s;
     cursor: pointer;
 }
-
-header nav a
-{
-    background-color: black;
-    color: white;
-    text-decoration: none;
-    width: 200px;
-    padding: 10px;
-}
