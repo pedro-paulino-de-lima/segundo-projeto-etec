@@ -101,3 +101,10 @@ a:hover
     transition: 1.5s;
     cursor: pointer;
 }
+
+nav a
+{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
