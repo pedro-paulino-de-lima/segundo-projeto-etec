@@ -101,3 +101,10 @@ a:hover
     transition: 1.5s;
     cursor: pointer;
 }
+
+fotter
+{
+    background-color: #292a2a;
+    padding: 1px;
+    width: 100%;
+}
