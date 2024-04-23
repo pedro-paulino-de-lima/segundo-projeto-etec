@@ -4,7 +4,7 @@ body
 {
     margin: 0px;
     padding: 0px;
-    background-color: rgba(255, 192, 203, 0.699);
+    background-image: linear-gradient(to right, #FCBCB8, #EFA7A7);
     text-align: center;
 }
 
